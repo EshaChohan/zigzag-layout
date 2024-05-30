@@ -1,0 +1,147 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    border-style: solid;
+    border-width: 5px;
+    width: 1000px;
+    margin-left: 150px;
+    background-color: bisque;
+    height: 40px;
+    padding: 15px;
+    border-radius: 10px;
+    word-spacing: 8px;
+    letter-spacing: 2.5px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+
+p {
+    font-size: 22px;
+    line-height: 35px;
+    word-spacing: 5px;
+    font-style: italic;
+}
+
+.Pakistan {
+    background-color: mediumseagreen;
+    height: 500px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 6px;
+    margin-top: 50px;
+}
+
+.Pakistan>img {
+    margin-left: 20px;
+    margin-top: 40px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.Pakistan>p {
+    text-align: left;
+    margin-left: 350px;
+    margin-top: -270px;
+    margin-right: 20px;
+}
+
+.India {
+    background-color: darkorange;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 6px;
+    margin-top: 50px;
+}
+
+.India>img {
+
+    margin-left: 980px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.India>p {
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -180px;
+    height: 230px;
+    margin-right: 400px;
+}
+
+.China {
+    background-color: tomato;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 6px;
+    margin-top: 50px;
+}
+
+.China>img {
+
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+
+.China>p {
+    text-align: left;
+    margin-left: 350px;
+    margin-top: -180px;
+    height: 230px;
+    margin-right: 20px;
+}
+
+.Afghanistan {
+    background-color: limegreen;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 6px;
+    margin-top: 50px;
+}
+
+.Afghanistan>img {
+
+    margin-left: 980px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.Afghanistan>p {
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -180px;
+    height: 230px;
+    margin-right: 400px;
+}
+
+
+.Iran {
+    background-color: lightgreen;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 6px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Iran>img {
+
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.Iran>p {
+    text-align: left;
+    margin-left: 350px;
+    margin-top: -180px;
+    height: 230px;
+    margin-right: 20px;
+}
